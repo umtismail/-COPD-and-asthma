@@ -1,6 +1,6 @@
 # COPD and Asthma Diagnosis Prediction
 
-This project aims to predict whether a patient has Chronic Obstructive Pulmonary Disease (COPD) or asthma using demographic, lifestyle, and clinical data. It was developed as part of the **Statistical Data Mining (IST405)** course at Hacettepe University, Department of Statistics.
+This project aims to predict whether a patient has Chronic Obstructive Pulmonary Disease (COPD) or asthma using demographic, lifestyle, and clinical data.
 
 ## 🎯 Project Objective
 
